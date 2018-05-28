@@ -12,11 +12,6 @@ using namespace MuDIS;
 
 char* g_strCopy = 0;
 
-
-const int TIMER_2000 = 2000;
-const int TIMER_60000 = 60 * 1000;
-const int TIMER_18M = 18 * 60 * 1000;
-const int TIMER_20M = 20 * 60 * 1000;
 int idTIMER_2000 = 0;
 int idTIMER_60000 = 0;
 int idTIMER_18M = 0;
