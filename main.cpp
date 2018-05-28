@@ -13,7 +13,8 @@ using namespace MuDIS;
 char* g_strCopy = 0;
 
 int idTIMER_2000 = 0;
-int idTIMER_60000 = 0;
+ikdikslk:w
+nt idTIMER_60000 = 0;
 int idTIMER_18M = 0;
 int idTIMER_20M = 0;
 // #define TIMER_TIMEOUT   (5*1000)  
